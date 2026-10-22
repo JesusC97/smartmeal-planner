@@ -1,0 +1,6 @@
+{
+  "name": "Menú y Compra: Alcampo vs Carrefour",
+  "description": "Planificador de menús semanales (almuerzo y cena) con lista de la compra automática y comparador de precios inteligente entre Alcampo y Carrefour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
